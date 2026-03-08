@@ -19,7 +19,9 @@ This is **not** a polished public course — it's my living, breathing notebook 
 
 ### Quick Navigation 
 
-- **[DC-1](./DC-1/DC-1.md)** — Drupal 7 explotation
+- **[DC-1](./DC-1/DC-1.md)** - Drupal 7 explotation
+- **[Basic Pentesting 1](./BasicPentesting/BasicPentesting.md)** — backdoored **ProFTP** and week Wordpress creds
+
 
 ### Important notes
 
