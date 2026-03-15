@@ -21,6 +21,7 @@ This is **not** a polished public course — it's my living, breathing notebook 
 
 - **[DC-1](./DC-1/DC-1.md)** - Drupal 7 explotation
 - **[Basic Pentesting 1](./BasicPentesting/BasicPentesting.md)** — backdoored **ProFTP** and week Wordpress creds
+- **[Rickdiculously Easy](./RickdiculouslyEasy/RickdiculouslyEasy.md)** — Rick and Morty themed beginner boot2root (130 pts flags)
 
 
 ### Important notes
